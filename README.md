@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudhanshu
 
-<!--
-**Sudhanshu8953/Sudhanshu8953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** who loves turning ideas into interactive, user-friendly websites. I specialize in crafting clean, responsive designs using modern technologies.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 🌐 [Portfolio Website](#) – A showcase of my work and skills
+- 📱 [Responsive Landing Page](#) – Built with HTML, CSS, and JavaScript
+- ⚙️ [RESTful API with Node.js](#) – Backend service for a web app
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](#)
+- 🌍 [Portfolio](#)
+- 📧 Email: yourname@example.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! Feel free to check out my pinned repos and drop a star ⭐ if you like what you see.
