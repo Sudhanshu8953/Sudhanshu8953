@@ -5,8 +5,7 @@ I'm a passionate **Web Developer** who loves turning ideas into interactive, use
 ## 🚀 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
-- **Tools & Platforms:** Git, GitHub, VS Code, Netlify
-
+- **Databases:** MongoDB, MySQL, PostgreSQL  
 ## 🛠️ Projects
 - 🌐 [Portfolio Website](#) – A showcase of my work and skills
 - 📱 [Responsive Landing Page](#) – Built with HTML, CSS, and JavaScript
