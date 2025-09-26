@@ -7,15 +7,12 @@ I'm a passionate **Web Developer** who loves turning ideas into interactive, use
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL, PostgreSQL  
 ## 🛠️ Projects
-- 🌐 [Portfolio Website](#) – A showcase of my work and skills
-- 📱 [Responsive Landing Page](#) – Built with HTML, CSS, and JavaScript
-- ⚙️ [RESTful API with Node.js](#) – Backend service for a web app
+- **Face Recognition-Based Attendance System** – Smart attendance tracker using facial recognition for secure and automated attendance
+- **ERP Management System** – Centralized system for managing business operations like inventory, sales, and HR 
+- **E-commerce Store** – Full-featured online shopping platform with product listings, cart functionality, and checkout flow  
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](#)
-- 🌍 [Portfolio](#)
-- 📧 Email: yourname@example.com
-
+- 💼 LinkedIn: [linkedin.com/in/Sudhanshu Singh](https://www.linkedin.com/in/sudhanshu-singh-3a9453213)
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
